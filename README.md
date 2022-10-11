@@ -14,7 +14,7 @@ Do message me in [linkedin](https://www.linkedin.com/in/tomisin-ekundayo-titiloy
 
 ## ETL
 
-ETL Verification - verification of loaded data after ETL using scala.
+
 
 ## Data Analysis
 
@@ -24,7 +24,7 @@ Big Data Analysis - demonstrates the various Spark RDD / Dataframe operations us
 
 The below repositories are build to explore Scikit-learn / Spark 3.0.1 API functionalities using Python :
 
-Extarcting, transforming and selecting features from data - explore various ways of extarcting, transforming and selecting features from data for machine learning using PySpark 3.0.1 library.
+Extarcting, transforming and selecting features from data - explore various ways of extracting, transforming and selecting features from data for machine learning using PySpark 3.0.1 library.
 
 Scikit-learn Regression - demonstrates the various machine learning regression models using Scikit-learn 0.23.2 library.
 

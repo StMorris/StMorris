@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Hi there,
 
-I am Tomisin Titiloye, i have an interesting relationship with data, i like to crawl around environments where it is stored, its even more fun when i get the chance to move it across different environments 🙃. Our conversations are the best, sometimes im just getting feedbacks on how the day went?, what made the most sense?, othertimes, we even go into the future 😁.
+I am Tomisin Titiloye, i have an interesting relationship with data, i like to crawl around environments where they are stored, its even more fun when i get the chance to move them across different environments 🙃. Our conversations are the best, sometimes im just getting feedbacks on how the day went?, what made the most sense?, othertimes, we even go into the future 😁.
 
 I joined Github to publish my curiousity, explore various tools and techniques, and identify best practices in the process. 
 If you are interested, please find the project details below.

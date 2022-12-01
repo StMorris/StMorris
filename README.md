@@ -61,7 +61,7 @@ IBM HR Analytics Employee Attrition - predict using LogisticRegression and Rando
 
 AB Testing - exploration of data from database using python libraries : pyodbc and matplotlib libraries.
 
-Customer Segmentation - demonstrates the various python machine learning clustering models.
+[Customer Segmentation](https://github.com/StMorris/customer_segmentation) - demonstrates the various python machine learning clustering models.
 
 Retail Sales Forecasting - predicting sales using various python machine learning models.
 

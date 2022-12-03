@@ -25,6 +25,11 @@ If you are interested, please find the project details below.
 - [Uber analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Uber%20analysis)
 - [Programming Languages Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Programming%20language%20Analysis)
 
+## [Web Scraping](https://github.com/StMorris/web_scraping)
+
+- [140 Action Movies recommended by Rotten Tomatoes](https://github.com/StMorris/web_scraping/tree/main/rotten_tomatoes_140_action_movies)
+
+
 ## Machine Learning
 
 The below repositories are build to explore Scikit-learn / Spark 3.0.1 API functionalities using Python :

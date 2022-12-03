@@ -70,7 +70,7 @@ Credit Card Fraud Detection - predict fraudulent credit card transactions using 
 
 IBM HR Analytics Employee Attrition - predict using LogisticRegression and RandomForestClassifier.
 
-AB Testing - exploration of data from database using python libraries : pyodbc and matplotlib libraries.
+[AB Testing](https://github.com/StMorris/AB-Testing) - exploration of data from database using python libraries
 
 [Customer Segmentation](https://github.com/StMorris/customer_segmentation) - demonstrates the various python machine learning clustering models.
 

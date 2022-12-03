@@ -31,6 +31,8 @@ The below repositories are build to explore Scikit-learn / Spark 3.0.1 API funct
 
 Extarcting, transforming and selecting features from data - explore various ways of extracting, transforming and selecting features from data for machine learning using PySpark 3.0.1 library.
 
+- [K Means Clustering](https://github.com/StMorris/customer_segmentation) - demonstrates the implementation of k means for customer segmentation (clustering -unsupervised ML)
+
 Scikit-learn Regression - demonstrates the various machine learning regression models using Scikit-learn 0.23.2 library.
 
 Scikit-learn Classification - demonstrates the various machine learning classification models using Scikit-learn 0.23.2 library.

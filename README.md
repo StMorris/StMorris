@@ -53,7 +53,7 @@ Movie Recommender System - implementation of movie recommendation systems using 
 
 ## Artificial intelligence (AI)
 
-Natural Language Processing - explore the different NLP options using Python.
+[Natural Language Processing](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Amazon%20customer%20analysis) - explore the different NLP options using Python.
 
 Credit Card Fraud Detection - predict fraudulent credit card transactions using TensorFlow, Keras, K Neighbors, Decision Tree, SVM Regression and Logistic Regression classfiers .
 

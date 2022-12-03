@@ -19,9 +19,11 @@ If you are interested, please find the project details below.
 
 ## [Data Analysis](https://github.com/StMorris/Data-Analysis-with-python)
 
-Big Data Analysis - demonstrates the various Spark RDD / Dataframe operations using PySpark 3.0.1 library.
-
-
+- [Amazon Customer Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Amazon%20customer%20analysis)
+- [Covid-19 Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/COVID-19%20Analysis)
+- [Google Playstore App Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Google%20Play%20Store%20App%20Analytics)
+- [Uber analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Uber%20analysis)
+- [Programming Languages Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Programming%20language%20Analysis)
 
 ## Machine Learning
 

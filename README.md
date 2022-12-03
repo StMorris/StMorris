@@ -51,6 +51,8 @@ Movie Recommender System - implementation of movie recommendation systems using 
 
 ## Deep Learning
 
+[Tensorflow 2](https://github.com/StMorris/Deep-Learning-with-Tensorflow-2)
+
 ## Artificial intelligence (AI)
 
 [Natural Language Processing](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Amazon%20customer%20analysis) - explore the different NLP options using Python.

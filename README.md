@@ -13,6 +13,9 @@ I am Tomisin Titiloye, i have an interesting relationship with data, i like to c
 I joined Github to publish my curiousity, explore various tools and techniques, and identify best practices in the process. 
 If you are interested, please find the project details below.
 
+
+promise to me: update the contents boy!!!!
+
 ## ETL
 
 

@@ -71,9 +71,9 @@ Credit Card Fraud Detection - predict fraudulent credit card transactions using 
 
 ## Real Life Data Science Projects
 
-IBM HR Analytics Employee Attrition - predict using LogisticRegression and RandomForestClassifier.
+Employee Attrition - perform extensive EDA and build a classification model using Spark MLlib on databricks
 
-Telecommunication Customer Attrition - predict using Spark MLlib
+Telecommunication Customer Attrition - Perform EDA and build a classification model using Spark MLlib on databricks
 
 [AB Testing](https://github.com/StMorris/AB-Testing) - exploration of data from different sources using python libraries
 

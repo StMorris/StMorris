@@ -71,9 +71,9 @@ Credit Card Fraud Detection - predict fraudulent credit card transactions using 
 
 ## Real Life Data Science Projects
 
-Employee Attrition - perform extensive EDA and build a classification model using Spark MLlib on databricks
+[Employee Attrition](https://github.com/StMorris/spark-x-databricks/tree/main/Employee%20attrition) - perform extensive EDA and build a classification model with decision tree classifier from Spark MLlib on databricks
 
-Telecommunication Customer Attrition - Perform EDA and build a classification model using Spark MLlib on databricks
+[Telecom Customer Attrition](https://github.com/StMorris/spark-x-databricks/tree/main/Customer%20Attrition) - Perform EDA and build a classification model using Spark MLlib on databricks
 
 [AB Testing](https://github.com/StMorris/AB-Testing) - exploration of data from different sources using python libraries
 

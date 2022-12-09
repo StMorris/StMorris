@@ -22,20 +22,21 @@ promise to me: update the contents boy!!!!
 
 ## [Data Analysis](https://github.com/StMorris/Data-Analysis-with-python)
 
-- [Amazon Customer Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Amazon%20customer%20analysis)
-- [Covid-19 Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/COVID-19%20Analysis)
-- [Google Playstore App Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Google%20Play%20Store%20App%20Analytics)
-- [Uber analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Uber%20analysis)
-- [Programming Languages Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Programming%20language%20Analysis)
+- [Amazon Customer Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Amazon%20customer%20analysis) with Python
+- [Covid-19 Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/COVID-19%20Analysis) with Python
+- [Google Playstore App Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Google%20Play%20Store%20App%20Analytics) with Python
+- [Uber analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Uber%20analysis) with Python
+- [Programming Languages Analysis](https://github.com/StMorris/Data-Analysis-with-python/tree/main/Programming%20language%20Analysis) with Python
+- [Ecommerce data sales analytics](https://github.com/StMorris/Pyspark/tree/main/Sales%20Analysis) with Pyspark
 
-## [Web Scraping](https://github.com/StMorris/web_scraping)
+## [Web Scraping](https://github.com/StMorris/web_scraping) 
 
-- [140 Action Movies recommended by Rotten Tomatoes](https://github.com/StMorris/web_scraping/tree/main/rotten_tomatoes_140_action_movies)
+- Scrape [140 Action Movies recommended by Rotten Tomatoes](https://github.com/StMorris/web_scraping/tree/main/rotten_tomatoes_140_action_movies) with Beautiful Soup
 
 
 ## Machine Learning
 
-The below repositories are build to explore Scikit-learn / Spark 3.0.1 API functionalities using Python :
+The below repositories explore Scikit-learn / Spark functionalities using Python and Spark:
 
 Extarcting, transforming and selecting features from data - explore various ways of extracting, transforming and selecting features from data for machine learning using PySpark 3.0.1 library.
 
@@ -47,11 +48,11 @@ Scikit-learn Classification - demonstrates the various machine learning classifi
 
 Linear Regression with Spark - demonstrates the implementation of Linear Regression using PySpark 3.0.1 library.
 
-Logistic Regression with Spark - demonstrates the implementation of Logistic Regression using PySpark 3.0.1 library.
+- [Logistic Regression with Spark](https://github.com/StMorris/spark-x-databricks/tree/main/Employee%20attrition) - demonstrates the implementation of Logistic Regression using PySpark 3.0.1 library.
 
-Spark MLlib Clustering - demonstrates the various clustering algorithms using PySpark 3.0.1 library.
+Spark MLlib Clustering - demonstrates the various clustering algorithms using Spark Mllib library.
 
-Spark MLlib Classification - demonstrates the various classification algorithms using PySpark 3.0.1 library.
+- [Spark MLlib Classification](https://github.com/StMorris/spark-x-databricks/tree/main/Customer%20Attrition) - demonstrates the use of various  classification algorithms using Spark MLlib library.
 
 Movie Recommender System - implementation of movie recommendation systems using Apache Spark 3.0.1 ML alternating least squares (ALS)
 

@@ -18,6 +18,7 @@ promise to me: update the contents boy!!!!
 
 ## ETL
 - [Full ETL from SQLServer database to Postgres database](https://github.com/StMorris/ETL_sqlserver_to_postgres/blob/main/ETL_sql_server_to_postgres.py) with python
+- [Real-Time data pipeline](https://github.com/StMorris/Real-time-data-pipeline) using Azure and PySpark
 
 
 ## [Data Analysis](https://github.com/StMorris/Data-Analysis-with-python)
